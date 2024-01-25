@@ -1,0 +1,9 @@
+{
+  "html": {
+    "type": "html"
+  },
+  "lightbar (hass)": {
+    "type": "hass-entities",
+    "entities": []
+  }
+}

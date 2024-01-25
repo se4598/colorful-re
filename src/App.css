@@ -14,14 +14,19 @@
 }
 
 .App-header {
+  position: absolute;
+  top: 0;
+  right: 0;
+  opacity: 0.5;
   background-color: #282c34;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  border: transparent 10px solid;
+  border-bottom-left-radius: 5px;
 }
 
 .App-link {
@@ -35,4 +40,22 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+main {
+  height: 100vh;
+  width: 100vw;
+}
+
+.flag {
+  display:flex;
+  justify-content: center;
+  align-items: stretch;
+  height: 100%;
+}
+.flag > div {
+  flex-grow: 1;
+}
+.flag-vertical {
+  flex-direction: column;
 }

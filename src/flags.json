@@ -1,0 +1,22 @@
+{
+  "agender": {
+    "type": "simple-vertical",
+    "colors": ["black","grey","white","lightgreen","white","grey","black"]
+  },
+  "pansexual": {
+    "type": "simple-vertical",
+    "colors": ["fuchsia","yellow","cyan"]
+  },
+  "bisexual": {
+    "type": "simple-vertical",
+    "colors": ["deeppink", "deeppink","#a349a4","blue","blue"]
+  },
+  "nonbinary": {
+    "type": "simple-vertical",
+    "colors": ["yellow", "white", "purple", "black"]
+  },
+  "trans": {
+    "type": "simple-vertical",
+    "colors": ["skyblue", "pink","white","pink","skyblue"]
+  }
+}

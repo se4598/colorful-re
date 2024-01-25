@@ -1,0 +1,29 @@
+{
+  "equivalent": {
+    "aqua": "cyan",
+    "grey": "gray"
+  },
+  "html": {
+    "x-white": [
+      255,
+      255,
+      255
+    ],
+    "x-black": [
+      0,
+      0,
+      0
+    ],
+    "pink": null,
+    "red": null,
+    "orange": null,
+    "brown": null,
+    "yellow": null,
+    "green": null,
+    "teal": null,
+    "blue": null,
+    "purple": null,
+    "grey": null,
+    "off": null
+  }
+}
