@@ -4,6 +4,16 @@
   },
   "lightbar (hass)": {
     "type": "hass-entities",
-    "entities": []
+    "colorspace": "lightbarRGB",
+    "entities": [
+      "light.lightbar_segment1",
+      "light.lightbar_segment2",
+      "light.lightbar_segment3",
+      "light.lightbar_segment4",
+      "light.lightbar_segment5",
+      "light.lightbar_segment6",
+      "light.lightbar_segment7",
+      "light.lightbar_segment8"
+    ]
   }
 }

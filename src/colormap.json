@@ -25,5 +25,17 @@
     "purple": null,
     "grey": null,
     "off": null
+  },
+  "lightbarRGB": {
+    "skyblue": [
+      91,
+      206,
+      250
+    ],
+    "pink": [
+      192,
+      28,
+      40
+    ]
   }
 }
