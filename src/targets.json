@@ -6,14 +6,14 @@
     "type": "hass-entities",
     "colorspace": "lightbarRGB",
     "entities": [
-      "light.lightbar_segment1",
-      "light.lightbar_segment2",
-      "light.lightbar_segment3",
-      "light.lightbar_segment4",
-      "light.lightbar_segment5",
-      "light.lightbar_segment6",
-      "light.lightbar_segment7",
-      "light.lightbar_segment8"
+      "light.rgb_bar_segment_1_r",
+      "light.rgb_bar_segment_2_r",
+      "light.rgb_bar_segment_3_r",
+      "light.rgb_bar_segment_4_r",
+      "light.rgb_bar_segment_5_r",
+      "light.rgb_bar_segment_6_r",
+      "light.rgb_bar_segment_7_r",
+      "light.rgb_bar_segment_8_r"
     ]
   }
 }
